@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+
+Sitemap: https://sandbox.gamegrip.cloud/sitemap.xml
+
+# GameGrip Intelligence Sandbox
+# Crawler findings and fix guides powered by jaffaAi
+# https://sandbox.gamegrip.cloud

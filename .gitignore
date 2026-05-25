@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.log
+cgi-bin/
+error_log
+data/
+*.db
+.htaccess
+tmp/
